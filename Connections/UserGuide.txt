@@ -1,0 +1,26 @@
+
+
+Connections is a game where you are presented with 16 different words, and they make up four
+groups with four words each, based on a certain category that the player doesn't know.
+The goal of the game is for the player to correctly guess each group in less than five tries.
+
+Each category has a different difficulty based on how hard it should be to guess. The yellow is the
+easiest category, then green is next, blue is after, and pink is last. The player can only select
+four words at a time, and they must have exactly four selected to make a guess. The game ends when
+either the player successfully groups all the words into their categories or if they don't
+get it in four tries. A screen will show up with all of the words in their correct categories,
+and it will indicated whether the player won and how many tries it took if so.
+
+To select a word, you must click the box that the word is in, and it will change its color to
+indicate it has been selected. It will not let you select another word if you already have four
+selected, but you can deselect words by clicking on their boxes again.
+
+Everything else can be done by using keys.
+- the "s" key checks to see if four selected words share the same category
+- the "n" key allows you to shuffle the positions of the words
+- the "r" key allows you to start a new game
+- the "d" key deselects all the words that are currently selected
+
+The extra features that are present in this game are the key that allows the player to
+reshuffle the words to be displayed in a different order, the key that deselects all of the
+selected words at once, and the tailored win/lose screen at the end.
